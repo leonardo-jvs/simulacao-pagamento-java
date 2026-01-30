@@ -28,13 +28,13 @@ O objetivo do projeto foi praticar lógica de programação e conceitos de Progr
 
 -Herança
 
--Estruturas condicionais
+-Estruturas Condicionais
 
 -Entrada de dados pelo console
 
 ▶️ Como executar
 
-Clone o repositório:
+Clone o Repositório:
 
 git clone https://github.com/seu-usuario/simulacao-pagamento-java.git
 
